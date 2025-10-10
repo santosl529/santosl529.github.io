@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <div>
-            <h1>Lorenzo Santos</h1>
+            <h1>Lorenzo Sa</h1>
             <div className = "link-container">
                 <div>
                     <a href = "https://www.linkedin.com/in/lorenzo-santos-10a780371/"> LinkedIn </a>
